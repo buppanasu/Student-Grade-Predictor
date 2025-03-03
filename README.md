@@ -32,7 +32,7 @@ This Project is created with love from these wonderful developers :stars:
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top"><a href="https://www.linkedin.com/in/yu-rui-pang/"><sub><b>Alan</b></a><br><b>CEO</b></td>
+            <td align="center" valign="top"><a href="https://www.linkedin.com/in/alanwongml/"><sub><b>Alan</b></a><br><b>CEO</b></td>
             <td align="center" valign="top"><a href="https://www.linkedin.com/in/junjie2912/"><sub><b>Jun Jie</b></a><br><b>CTO</b></td>
         </tr>
         <tr>
@@ -40,7 +40,7 @@ This Project is created with love from these wonderful developers :stars:
             <td align="center" valign="top"><a href="https://www.linkedin.com/in/tanhengjoo/"><sub><b>Joo</b></a><br>Scrum Master</b></td>
         </tr>
         <tr>
-            <td align="center" valign="top"><a href="https://www.linkedin.com/in/alanwongml/"><sub><b>Yu Rui</b></a><br>Janitor</b></td>
+            <td align="center" valign="top"><a href="https://www.linkedin.com/in/yu-rui-pang/"><sub><b>Yu Rui</b></a><br>Janitor</b></td>
         </tr>
     </tbody>
 </table>
