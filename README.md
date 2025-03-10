@@ -26,6 +26,13 @@ The team utilized the [Open University Learning Analytics Dataset (OULAD)](https
 ## Getting Started
 Just download Python Dummy.
 
+## Guide 
+For training data results, refer to 2)ML_Algo/Training_*.ipynb notebooks
+For finetuning data results, refer to 2)ML_Algo/Finetuning_*.ipynb notebooks
+For final results, refer to 2)ML_Algo/FinalResults_*.ipynb notebooks
+For comparisons to the paper, refer to 2)ML_Algo/PaperComparison_*.ipynb notebooks
+
+
 ## Contributors
 This Project is created with love from these wonderful developers :stars:
 
