@@ -72,8 +72,10 @@ Below are the cluster labels based on the combined insights from your mean/media
 **Premise:**  
 - **Code Module:** Distinct pattern (median ≈ 1)  
 - **Score:** Relatively low performance (mean ≈ 66.2, median ≈ 67.7)  
-- **Engagement:** Moderate-to-low assessment completion (mean ≈ 0.56, median ≈ 0.50) and low VLE clicks (mean ≈ 657.8, median ≈ 390.5)  
-- **SHAP Insight:** The lower engagement features, combined with the distinct module context, contribute to a higher risk of failure in this cluster.
+- **Engagement:** Moderate-to-low assessment completion (mean ≈ 0.56,
+ median ≈ 0.50) and low VLE clicks (mean ≈ 657.8, median ≈ 390.5)  
+- **SHAP Insight:** The lower engagement features, combined with the distinct 
+module context, contribute to a higher risk of failure in this cluster.
 
 ---
 
