@@ -2,14 +2,15 @@
 An INF2008 Machine Learning Project by Group 1.
 
 ## Table of Contents
-- [Student Grade Pretictor](#student-grade-pretictor)
-  - [Table of Contents](#table-of-contents)
-  - [Background](#background)
-  - [Motivation](#motivation)
-  - [Objectives](#objectives)
-  - [Dataset Used](#dataset-used)
-  - [Guide](#guide)
-  - [Contributors](#contributors)
+- [Background](#background)
+- [Motivation](#motivation)
+- [Objectives](#objectives)
+- [Dataset Used](#dataset-used)
+- [Getting Started](#getting-started)
+    - [VSCode Method](#1-vscode-method)
+    - [Google Colab Method](#2-google-colab-method)
+- [Guide](#guide)
+- [Contributors](#contributors)
 
 ## Background
 There is increasing emphasis on proactive student support for educators, which indicates a growing trend in education where institutions prioritise providing early intervention and preventative measures to address potential student challenges rather than reacting to these issues when they arise.
@@ -26,6 +27,37 @@ The team has declared these objectives for our project:
 ## Dataset Used
 The team utilized the [Open University Learning Analytics Dataset (OULAD)](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad/data) due to its comprehensive and diverse data. It is a reliably sourced dataset derived from real student interactions rather than synthetically generated data, ensuring authenticity and applicability to real-world scenarios.
 
+---
+## Getting Started
+There are two ways of running our files to get the same results as shown:
+
+### 1. VSCode Method
+
+1. Set up a Python Virtual Environment and activate it.
+    ```
+    > python3 -m venv venv
+
+    > venv\bin\activate.bat (FOR CMD.EXE - Windows)
+    > venv\bin\Activate.ps1 (For Powershell - Windows)
+    $source venv\bin\activate (For Bash - Mac)
+    ```
+2. Install the required python librarys from the requirements.txt
+    ```
+    pip install -r requirements.txt
+    ```
+3. Install the Jupyter Extension in VSCode Marketplace.
+
+4. You are able to run the Cells in any of the .ipynb files. Head over to the [Guide](#guide) to understand the files and directory.
+
+### 2. Google Colab Method
+
+1. Download the .ipynb file you want to test out.
+
+2. Upload it to Google Colab and run it.
+
+3. Head over to the [Guide](#guide) to understand the files and directory.
+
+---
 ## Guide 
 
 - Please run the first cell in either EDA.ipynb OR ML_Algo/Training_DT_RF_AB_FFF.ipynb to download the .csv files before running any other cells.
@@ -48,16 +80,14 @@ The team utilized the [Open University Learning Analytics Dataset (OULAD)](https
     - [2)ML_Algo/PaperComparison_Dropout.ipynb](2%29ML_Algo/PaperComparison_Dropout.ipynb)
     - [2)ML_Algo/PaperComparison_Pass_Fail.ipynb](2%29ML_Algo/PaperComparison_Pass_Fail.ipynb)
 
-
+---
 ## Contributors
 This Project is created with love from these wonderful developers :stars:
 
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top"><a href="https://www.linkedin.com/in/alanwongml/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=13Gu6DrQa-FtFr0IVwpb3aiWX42jqIXmV" width="100px;" alt="Alan"/><br /><sub><b>Alan</b></a><br>CEO</b></td>
-        </tr>
-        <tr>
+            <td align="center" valign="top"><a href="https://www.linkedin.com/in/travis-teo-hao-han/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1CgG7OaGfiK1osTXme4zgO_8LubSCbaEy" width="100px;" alt="Travis"/><br /><sub><b>Travis Teo</b></a><br><b>CEO</b></td>
             <td align="center" valign="top"><a href="https://www.linkedin.com/in/junjie2912/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1rQyIwC1G0pmxkV-3Uhnjbd6SjDt_WSJa" width="100px;" alt="Jun Jie"/><br /><sub><b>Jun Jie</b></a><br><b>CTO</b></td>
         </tr>
         <tr>
@@ -66,9 +96,6 @@ This Project is created with love from these wonderful developers :stars:
         </tr>
         <tr>
             <td align="center" valign="top"><a href="https://www.linkedin.com/in/alanwongml/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=13Gu6DrQa-FtFr0IVwpb3aiWX42jqIXmV" width="100px;" alt="Alan"/><br /><sub><b>Alan</b></a><br>Janitor</b></td>
-        </tr>
-        <tr>
-            <td align="center" valign="top"><a href="https://www.linkedin.com/in/travis-teo-hao-han/" target="_blank"><br /><sub><b>Travis Teo</b></a><br><b>Customer</b></td>
         </tr>
     </tbody>
 </table>
