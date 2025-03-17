@@ -2,11 +2,14 @@
 An INF2008 Machine Learning Project by Group 1.
 
 ## Table of Contents
-- [Background](#background)
-- [Motivation](#motivation)
-- [Objectives](#objectives)
-- [Guide](#guide)
-- [Contributors](#contributors)
+- [Student Grade Pretictor](#student-grade-pretictor)
+  - [Table of Contents](#table-of-contents)
+  - [Background](#background)
+  - [Motivation](#motivation)
+  - [Objectives](#objectives)
+  - [Dataset Used](#dataset-used)
+  - [Guide](#guide)
+  - [Contributors](#contributors)
 
 ## Background
 There is increasing emphasis on proactive student support for educators, which indicates a growing trend in education where institutions prioritise providing early intervention and preventative measures to address potential student challenges rather than reacting to these issues when they arise.
@@ -24,6 +27,8 @@ The team has declared these objectives for our project:
 The team utilized the [Open University Learning Analytics Dataset (OULAD)](https://www.kaggle.com/datasets/anlgrbz/student-demographics-online-education-dataoulad/data) due to its comprehensive and diverse data. It is a reliably sourced dataset derived from real student interactions rather than synthetically generated data, ensuring authenticity and applicability to real-world scenarios.
 
 ## Guide 
+
+- Please run the first cell in either EDA.ipynb OR ML_Algo/Training_DT_RF_AB_FFF.ipynb to download the .csv files before running any other cells.
 
 - For **Data Preprocessing, Analysis & Feature Extraction**, please refer to  
     - [1)DataProcessing_Analysis_FeatureExtraction/EDA.ipynb](1%29DataProcessing_Analysis_FeatureExtraction/EDA.ipynb)
@@ -50,7 +55,9 @@ This Project is created with love from these wonderful developers :stars:
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top"><a href="https://www.linkedin.com/in/travis-teo-hao-han/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1CgG7OaGfiK1osTXme4zgO_8LubSCbaEy" width="100px;" alt="Travis"/><br /><sub><b>Travis Teo</b></a><br><b>CEO</b></td>
+            <td align="center" valign="top"><a href="https://www.linkedin.com/in/alanwongml/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=13Gu6DrQa-FtFr0IVwpb3aiWX42jqIXmV" width="100px;" alt="Alan"/><br /><sub><b>Alan</b></a><br>CEO</b></td>
+        </tr>
+        <tr>
             <td align="center" valign="top"><a href="https://www.linkedin.com/in/junjie2912/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1rQyIwC1G0pmxkV-3Uhnjbd6SjDt_WSJa" width="100px;" alt="Jun Jie"/><br /><sub><b>Jun Jie</b></a><br><b>CTO</b></td>
         </tr>
         <tr>
@@ -59,6 +66,9 @@ This Project is created with love from these wonderful developers :stars:
         </tr>
         <tr>
             <td align="center" valign="top"><a href="https://www.linkedin.com/in/alanwongml/" target="_blank"><img src="https://drive.google.com/uc?export=view&id=13Gu6DrQa-FtFr0IVwpb3aiWX42jqIXmV" width="100px;" alt="Alan"/><br /><sub><b>Alan</b></a><br>Janitor</b></td>
+        </tr>
+        <tr>
+            <td align="center" valign="top"><a href="https://www.linkedin.com/in/travis-teo-hao-han/" target="_blank"><br /><sub><b>Travis Teo</b></a><br><b>Customer</b></td>
         </tr>
     </tbody>
 </table>
