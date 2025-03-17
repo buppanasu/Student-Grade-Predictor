@@ -60,8 +60,6 @@ There are two ways of running our files to get the same results as shown:
 ---
 ## Guide 
 
-- Please run the first cell in either EDA.ipynb OR ML_Algo/Training_DT_RF_AB_FFF.ipynb to download the .csv files before running any other cells.
-
 - For **Data Preprocessing, Analysis & Feature Extraction**, please refer to  
     - [1)DataProcessing_Analysis_FeatureExtraction/EDA.ipynb](1%29DataProcessing_Analysis_FeatureExtraction/EDA.ipynb)
 - For **Training Data Results**, refer to the following files:
